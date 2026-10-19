@@ -85,6 +85,6 @@ Requisitos: Python 3, TensorFlow/Keras, scikit-learn, NumPy y Matplotlib (ya inc
 
 Python · TensorFlow / Keras · VGG16 · transfer learning · data augmentation · scikit-learn · Matplotlib · Google Colab
 
-## Autores
+## Autor
 
 Francisco Ferrer López
